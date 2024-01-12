@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mYnoteBook/static/css/main.f855e6bc.css",
+    "main.js": "/mYnoteBook/static/js/main.a4692b5b.js",
+    "static/js/787.62ef2143.chunk.js": "/mYnoteBook/static/js/787.62ef2143.chunk.js",
+    "index.html": "/mYnoteBook/index.html",
+    "main.f855e6bc.css.map": "/mYnoteBook/static/css/main.f855e6bc.css.map",
+    "main.a4692b5b.js.map": "/mYnoteBook/static/js/main.a4692b5b.js.map",
+    "787.62ef2143.chunk.js.map": "/mYnoteBook/static/js/787.62ef2143.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a4692b5b.js"
+  ]
+}
